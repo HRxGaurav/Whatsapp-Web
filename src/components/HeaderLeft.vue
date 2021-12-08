@@ -1,5 +1,5 @@
 <template >
-    <div class="grid grid-cols-12  text-grey-400 dark:text-grey-100 ">
+    <div class="grid grid-cols-12  text-grey-400 dark:text-white ">
         <div class="col-span-9">
           <img
             src="https://source.unsplash.com/1600x900/?beach
