@@ -4,13 +4,13 @@
       <img
         :src="dp"
         alt=""
-        class="h-12 w-12 rounded-full ml-4 mt-5"
+        class="h-12 w-12 rounded-full ml-4 mt-3"
       />
     </div>
     <div class="col-span-10 border-b-2 ml-3">
       <div class="flex flex-col items-start">
-        <h1 class="mt-3 mr-16">{{ name }}</h1>
-        <h3 class="mb-3 truncate w-80">{{ msg[msg.length - 1] }}</h3>
+        <h1 class="mt-3">{{ name }}</h1>
+        <p class="mb-3 text-left truncate" v-bind:style="{width: 270 + 'px',}">{{ msg[msg.length - 1].msg }}</p>
       </div>
     </div>
   </div>
@@ -21,7 +21,7 @@ export default {
   props: {
     name: String,
     dp: String,
-    msg: Array,
+    msg: Object,
   },
 };
 </script>

@@ -8,7 +8,7 @@
     <title><%= htmlWebpackPlugin.options.title %></title>
   </head>
   
-  <body style="margin: 0; height: 100vh;">
+  <body>
     <noscript>
       <strong>We're sorry but <%= htmlWebpackPlugin.options.title %> doesn't work properly without JavaScript enabled. Please enable it to continue.</strong>
     </noscript>
@@ -17,6 +17,9 @@
 
   </body>
   <style>
-    
+    body{
+      margin: 0;
+      height: 100%;
+    }
   </style>
 </html>
