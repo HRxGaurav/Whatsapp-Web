@@ -111,7 +111,6 @@ export default {
       this.inputmsg.msg = null;
       this.sendmsg.issend=true;
       this.sendmsg.type=Text;
-      alert(this.sendmsg.issend);
       this.sendData(this.sendmsg);
     },
   },
