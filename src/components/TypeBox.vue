@@ -35,13 +35,14 @@
       </button>
     </div>
     <div class="flex rounded-full bg-white dark:bg-grey-600 mt-2">
+      <form action="" @submit.prevent="getmsg">
       <input
         type="text"
         class="px-5 py-2 rounded-full dark:bg-gray-500 text-gray-600 dark:text-white"
         placeholder="Type a message"
         v-model="inputmsg.msg"
         v-bind:style="{ width: 53 + 'vw' }"
-      />
+      /></form>
     </div>
     <div v-if="inputmsg.msg">
       <button type="submit" v-on:click="getmsg()" class="mt-3 ml-4">
@@ -111,8 +112,10 @@ export default {
       this.inputmsg.msg = null;
       this.sendmsg.issend=true;
       this.sendmsg.type=Text;
+      
       this.sendData(this.sendmsg);
     },
+    
   },
 };
 </script>

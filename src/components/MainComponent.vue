@@ -53,8 +53,30 @@ import SearchLeft from "./SearchLeft.vue";
 import ContactList from "./ContactList.vue";
 import HeaderRight from "./HeaderRight.vue";
 import ChatBox from "./ChatBox.vue";
-import TypeBox from "./TypeBox.vue";
-import Data from '../assets/Data.js';
+import TypeBox from "./TypeBox.vue"; 
+let data = localStorage.getItem('../assets/Data');
+let lists= [
+        {
+          index:0,
+          name: "abc",
+          dp: "https://source.unsplash.com/1600x900/?beach",
+          msg:[
+            {
+               issend:true,
+               type:Text,
+               msg:"hii" 
+            },
+            {
+                issend:true,
+                type:Text,
+                msg:"i am gaurav" 
+            },
+          ]
+        }
+      ]
+console.log(lists);
+lists[0].msg.push(true,Text,"hiiiii");
+console.log(lists);
 export default {
   components: { HeaderLeft, SearchLeft, ContactList,HeaderRight,ChatBox,TypeBox },
   name: "MainComponent",
@@ -63,7 +85,7 @@ export default {
   },
   methods:{
       show(){
-        alert(Data);
+        alert('data');
       },
       for_right_headr_and_chatbox(name,msg,dp,index){
         this.index_of_contact_in_chat=index;
@@ -78,7 +100,7 @@ export default {
   },
   data() {
     return {
-      Data,
+      data,
       index_of_contact_in_chat:null,
       show_right_header_and_chatbox:false,
       name_for_right_header:null,
