@@ -986,7 +986,7 @@ export let Data= [
    {
      index:8,
      name: "Doctor Strange",
-     dp: "https://source.unsplash.com/1600x900/?beach",
+     dp: "https://www.denofgeek.com/wp-content/uploads/2016/10/doctor-strange-2-benedict-cumberbatch.jpg",
      msg:[
        {
           issend:false,
