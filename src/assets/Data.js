@@ -2,7 +2,7 @@ export let Data= [
    {
      index:0,
      name: "Tony",
-     dp: "https://source.unsplash.com/1600x900/?beach",
+     dp: "http://sc01.alicdn.com/kf/HTB1jA_RXrj1gK0jSZFuq6ArHpXab.jpg",
      msg:[
        {
           issend:false,
@@ -125,7 +125,7 @@ export let Data= [
    {
      index:1,
      name: "Bruce",
-     dp: "https://source.unsplash.com/1600x900/?beach",
+     dp: "https://i.redd.it/7nbmcn7wj0911.jpg",
      msg:[
        {
           issend:false,
