@@ -1106,5 +1106,251 @@ export let Data= [
        },
    ]
    },
+   {
+     index:9,
+     name: "Peter",
+     dp: "https://source.unsplash.com/1600x900/?beach",
+     msg:[
+       {
+          issend:false,
+          type:"text",
+          time:"12:34 PM",
+          msg:"hi" 
+       },
+       {
+          issend:false,
+          type:"file",
+          time:"12:35PM",
+          msg:"resume.pdf"
+       },
+       {
+          issend:false,
+          type:"image",
+          time:"12:38PM",
+          msg:"https://source.unsplash.com/1600x900/?beach"
+       },
+       {
+           issend:false,
+           type:"text",
+           time:"12:34 PM",
+           msg:"Gaurav"
+       },
+       {
+          issend:true,
+          type:"text",
+          time:"12:34 PM",
+          msg:"Hi, How are you?" 
+       },
+       {
+          issend:true,
+          type:"text",
+          time:"12:34 PM",
+          msg:"What are you doing these days?" 
+       },{
+          issend:false,
+          type:"text",
+          time:"12:34 PM",
+          msg:"Fine" 
+       },{
+          issend:false,
+          type:"text",
+          time:"12:34 PM",
+          msg:"Nothing special, just studing" 
+       },{
+          issend:true,
+          type:"text",
+          time:"12:34 PM",
+          msg:"Oo! that's great" 
+       },{
+          issend:false,
+          type:"text",
+          time:"12:34 PM",
+          msg:"And what are you doing these days?" 
+       },{
+          issend:true,
+          type:"text",
+          time:"12:34 PM",
+          msg:"Hmm.., Developing some massive UI, there this demo chat will be placed" 
+       },{
+          issend:false,
+          type:"text",
+          time:"12:34 PM",
+          msg:"Really." 
+       },{
+          issend:true,
+          type:"text",
+          time:"12:34 PM",
+          msg:"Yes bro" 
+       },{
+          issend:false,
+          type:"text",
+          time:"12:34 PM",
+          msg:"I am also preparing for IT field" 
+       },{
+          issend:false,
+          type:"text",
+          time:"12:34 PM",
+          msg:"If i need any help" 
+       },{
+          issend:false,
+          type:"text",
+          time:"12:34 PM",
+          msg:"then I will ping you" 
+       },{
+          issend:true,
+          type:"text",
+          time:"12:34 PM",
+          msg:"okay bro, if you want any help then just ping me without thinking any thing" 
+       },{
+          issend:true,
+          type:"text",
+          time:"12:34 PM",
+          msg:"Now, I have some work" 
+       },{
+          issend:true,
+          type:"text",
+          time:"12:34 PM",
+          msg:"let me finish them" 
+       },{
+          issend:true,
+          type:"image",
+          time:"12:34 PM",
+          msg:"https://www.denofgeek.com/wp-content/uploads/2017/06/tom-holland-spider-man-homecoming_48.jpg" 
+       },{
+          issend:false,
+          type:"text",
+          time:"12:34 PM",
+          msg:"okay, finish your work" 
+       },{
+          issend:false,
+          type:"text",
+          time:"12:34 PM",
+          msg:"Bye." 
+       },
+   ]
+   },
+   {
+     index:10,
+     name: "Wade wilson",
+     dp: "https://source.unsplash.com/1600x900/?beach",
+     msg:[
+       {
+          issend:false,
+          type:"text",
+          time:"12:34 PM",
+          msg:"hi" 
+       },
+       {
+          issend:false,
+          type:"file",
+          time:"12:35PM",
+          msg:"resume.pdf"
+       },
+       {
+          issend:false,
+          type:"image",
+          time:"12:38PM",
+          msg:"https://source.unsplash.com/1600x900/?beach"
+       },
+       {
+           issend:false,
+           type:"text",
+           time:"12:34 PM",
+           msg:"Gaurav"
+       },
+       {
+          issend:true,
+          type:"text",
+          time:"12:34 PM",
+          msg:"Hi, How are you?" 
+       },
+       {
+          issend:true,
+          type:"text",
+          time:"12:34 PM",
+          msg:"What are you doing these days?" 
+       },{
+          issend:false,
+          type:"text",
+          time:"12:34 PM",
+          msg:"Fine" 
+       },{
+          issend:false,
+          type:"text",
+          time:"12:34 PM",
+          msg:"Nothing special, just studing" 
+       },{
+          issend:true,
+          type:"text",
+          time:"12:34 PM",
+          msg:"Oo! that's great" 
+       },{
+          issend:false,
+          type:"text",
+          time:"12:34 PM",
+          msg:"And what are you doing these days?" 
+       },{
+          issend:true,
+          type:"text",
+          time:"12:34 PM",
+          msg:"Hmm.., Developing some massive UI, there this demo chat will be placed" 
+       },{
+          issend:false,
+          type:"text",
+          time:"12:34 PM",
+          msg:"Really." 
+       },{
+          issend:true,
+          type:"text",
+          time:"12:34 PM",
+          msg:"Yes bro" 
+       },{
+          issend:false,
+          type:"text",
+          time:"12:34 PM",
+          msg:"I am also preparing for IT field" 
+       },{
+          issend:false,
+          type:"text",
+          time:"12:34 PM",
+          msg:"If i need any help" 
+       },{
+          issend:false,
+          type:"text",
+          time:"12:34 PM",
+          msg:"then I will ping you" 
+       },{
+          issend:true,
+          type:"text",
+          time:"12:34 PM",
+          msg:"okay bro, if you want any help then just ping me without thinking any thing" 
+       },{
+          issend:true,
+          type:"text",
+          time:"12:34 PM",
+          msg:"Now, I have some work" 
+       },{
+          issend:true,
+          type:"text",
+          time:"12:34 PM",
+          msg:"let me finish them" 
+       },{
+          issend:true,
+          type:"image",
+          time:"12:34 PM",
+          msg:"https://images.hindustantimes.com/rf/image_size_640x362/HT/p2/2016/02/12/Pictures/_e7c37f90-d131-11e5-94bd-a06a76346e8f.jpg" 
+       },{
+          issend:false,
+          type:"text",
+          time:"12:34 PM",
+          msg:"okay, finish your work" 
+       },{
+          issend:false,
+          type:"text",
+          time:"12:34 PM",
+          msg:"Bye." 
+       },
+   ]
+   },
  ]
 export default Data;
