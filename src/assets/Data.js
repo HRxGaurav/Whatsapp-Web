@@ -248,7 +248,7 @@ export let Data= [
    {
      index:2,
      name: "Sam",
-     dp: "https://source.unsplash.com/1600x900/?beach",
+     dp: "https://insidethemagic.net/wp-content/uploads/2021/04/anthony-mackie-captain-america-the-winter-soldier-1920x1200-1-550x344.jpeg",
      msg:[
        {
           issend:false,
@@ -371,7 +371,7 @@ export let Data= [
    {
      index:3,
      name: "Natasha",
-     dp: "https://source.unsplash.com/1600x900/?beach",
+     dp: "https://c8.alamy.com/comp/2F5R1H1/black-widow-2021-directed-by-cate-shortland-and-starring-florence-pugh-as-yelena-belova-natasha-romanoff-aka-black-widow-gets-her-own-marvel-cinematic-universe-instalment-in-a-film-set-between-captain-america-civil-war-and-avengers-infinity-war-2F5R1H1.jpg",
      msg:[
        {
           issend:false,
@@ -494,7 +494,7 @@ export let Data= [
    {
      index:4,
      name: "Bukky",
-     dp: "https://source.unsplash.com/1600x900/?beach",
+     dp: "https://images6.fanpop.com/image/photos/43900000/Bucky-Barnes-The-Falcon-and-the-Winter-Soldier-Textless-Posters-the-falcon-and-the-winter-soldier-43950868-300-450.jpg",
      msg:[
        {
           issend:false,
@@ -617,7 +617,7 @@ export let Data= [
    {
      index:5,
      name: "Steve",
-     dp: "https://source.unsplash.com/1600x900/?beach",
+     dp: "https://external-preview.redd.it/dgLBGxzYdI2OulViMmkmL6WaU9_l5QnSRwD25nZPSMA.jpg?auto=webp&s=508b76cd85f5482e312622121f3b4bf05136d0ca",
      msg:[
        {
           issend:false,
@@ -740,7 +740,7 @@ export let Data= [
    {
      index:6,
      name: "Thor",
-     dp: "https://source.unsplash.com/1600x900/?beach",
+     dp: "https://hips.hearstapps.com/digitalspyuk.cdnds.net/18/14/1522871998-aif13.jpg",
      msg:[
        {
           issend:false,
@@ -863,7 +863,7 @@ export let Data= [
    {
      index:7,
      name: "Clint",
-     dp: "https://source.unsplash.com/1600x900/?beach",
+     dp: "https://images.squarespace-cdn.com/content/v1/5aba88b389c172458a37fbce/1556495932542-FIF5SQO7C2CDGBDUO23M/IMG_0026.JPG",
      msg:[
        {
           issend:false,
@@ -1004,7 +1004,7 @@ export let Data= [
           issend:false,
           type:"image",
           time:"12:38PM",
-          msg:"https://source.unsplash.com/1600x900/?beach"
+          msg:"https://i.annihil.us/u/prod/marvel/i/mg/9/f0/57fe4ef408a29/standard_incredible.jpg"
        },
        {
            issend:false,
@@ -1109,7 +1109,7 @@ export let Data= [
    {
      index:9,
      name: "Peter",
-     dp: "https://source.unsplash.com/1600x900/?beach",
+     dp: "https://www.denofgeek.com/wp-content/uploads/2017/06/tom-holland-spider-man-homecoming_48.jpg",
      msg:[
        {
           issend:false,
@@ -1232,7 +1232,7 @@ export let Data= [
    {
      index:10,
      name: "Wade wilson",
-     dp: "https://source.unsplash.com/1600x900/?beach",
+     dp: "https://images.hindustantimes.com/rf/image_size_640x362/HT/p2/2016/02/12/Pictures/_e7c37f90-d131-11e5-94bd-a06a76346e8f.jpg",
      msg:[
        {
           issend:false,
