@@ -80,7 +80,7 @@ import ContactList from "./ContactList.vue";
 import HeaderRight from "./HeaderRight.vue";
 import ChatBox from "./ChatBox.vue";
 import TypeBox from "./TypeBox.vue";
-//localStorage.clear();
+localStorage.clear();
 var test = JSON.parse(localStorage.getItem('Data'));
 import data from '../assets/Data.js'
 //localStorage.setItem('Data',JSON.stringify(data));
